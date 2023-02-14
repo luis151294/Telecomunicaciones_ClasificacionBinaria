@@ -1,2 +1,5 @@
 # Telecomunicaciones_ClasificacionBinaria
-Ejercicio de clasificación Binaria para determinar Churn en una empresa de telecomunicaciones.
+
+Open folder "Documentación" and read file "Documentación Telecomunicaciones.pdf".
+
+In that document, you will see the description and results of the exercise.
